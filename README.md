@@ -78,6 +78,16 @@ components/
     └── Navbar.jsx
 ```
 
+```
+---------------------------------------
+|               Navbar                |
+---------------------------------------
+| Left Sidebar |   Preview Canvas     |
+|              |                      |
+|              |                      |
+---------------------------------------
+```
+
 ---
 
 ## 🎯 Roadmap
@@ -85,7 +95,7 @@ components/
 ### Phase 1
 
 - [x] Project Setup
-- [ ] Responsive Layout
+- [x] Responsive Layout
 - [ ] Sidebar
 - [ ] Live Preview
 
