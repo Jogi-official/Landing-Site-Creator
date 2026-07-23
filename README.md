@@ -60,32 +60,55 @@ src
 └── index.css
 ```
 
+### Navbar
+
+```
+components/
+└── Navbar/
+    ├── Device Switcher/
+    │   ├── button
+    │   ├── button
+    │   └── button
+    │
+    ├── Navbar Actions/
+    │   ├── ExportButton.jsx
+    │   └── SaveButton.jsx
+    │
+    ├── HeaderLogo.jsx
+    └── Navbar.jsx
+```
+
 ---
 
 ## 🎯 Roadmap
 
 ### Phase 1
+
 - [x] Project Setup
 - [ ] Responsive Layout
 - [ ] Sidebar
 - [ ] Live Preview
 
 ### Phase 2
+
 - [ ] Theme Customization
 - [ ] Logo Upload
 - [ ] Button Customization
 
 ### Phase 3
+
 - [ ] Feature Management
 - [ ] Hero Image Upload
 - [ ] Font Selector
 
 ### Phase 4
+
 - [ ] Dark / Light Mode
 - [ ] Local Storage
 - [ ] Reset Builder
 
 ### Phase 5
+
 - [ ] Export HTML
 - [ ] Export JSON
 - [ ] Download Landing Page
